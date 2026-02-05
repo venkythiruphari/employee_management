@@ -1,0 +1,10 @@
+server:
+  port: "8000"
+database:
+  host: "db"
+  port: "5432"
+  user: "postgres"
+  password: "venky"
+  dbname: "employee_db"
+jwt:
+  secret: "unique_secret_key"
